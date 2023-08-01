@@ -52,7 +52,7 @@ My recent working topics include but are not limited to:
 - **[TCI 2021]** Shuo Zhang, **Song Chang**, Zeqi Shen, Youfang Lin, "Micro-lens Image Upsampling for Densely-Sampled Light Field Reconstruction [J]", IEEE Transactions on Computational Imaging (TCI), 2021. (IF 4.015, An 2) [[Paper](https://ieeexplore.ieee.org/document/9496157)]]
 
 
-###Competitions
+### Competitions
 
 - **[CVPR 2023 Workshop]** The 3rd Workshop on Light Fields for Computer Vision LFNAT（http://www.lfchallenge.com/LFNAT@CVPR2023/challenge/) Runner-up Ranking Award (LRDE).
 
