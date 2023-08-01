@@ -1,0 +1,10 @@
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-catbook
+# theme: jekyll-theme-dinky
+
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Welcome to Chang Song's Homepage]
+# description: [A short description of your site's purpose]
