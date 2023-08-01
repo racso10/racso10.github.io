@@ -24,7 +24,7 @@ My research interests are machine learning, deep learning, and computer vision.
 My recent working topics include but are not limited to:
 
 - Light Field Reconstruction
-- Low-level vision (De-noising, Super-Resolusion, De-occlusion)
+- Low-level Vision (Super-Resolusion, De-Noising, De-Occlusion)
 - Neural Rendering
 
 ---
@@ -45,11 +45,11 @@ My recent working topics include but are not limited to:
 
 - **[ACM MM 2022]** **Song Chang**, Youfang Lin, Shuo Zhang, "Flexible Hybrid Lenses Light Field Super-Resolution using Layered Refinement", The 30th ACM International Conference on Multimedia (ACM MM), 2022. (CCF-A Conference) [[Paper](https://dl.acm.org/doi/10.1145/3503161.3548056)] [[Code](https://github.com/racso10/LFHSR)]
 
-- **[TCI 2022]** Yangling Chen, Shuo Zhang, **Song Chang**, Youfang Lin, "Light Field Reconstruction using Efficient Pseudo 4D Epipolar-Aware Structure [J]", IEEE Transactions on Computational Imaging (TCI), 2022. (IF 4.015, An 2) [[Paper](https://ieeexplore.ieee.org/document/9763017)]]
+- **[TCI 2022]** Yangling Chen, Shuo Zhang, **Song Chang**, Youfang Lin, "Light Field Reconstruction using Efficient Pseudo 4D Epipolar-Aware Structure [J]", IEEE Transactions on Computational Imaging (TCI), 2022. (IF 4.015, An 2) [[Paper](https://ieeexplore.ieee.org/document/9763017)]
 
-- **[TIP 2021]** Shuo Zhang, **Song Chang**, Youfang Lin, "End-to-End Light Field Spatial Super-Resolution Network using Multiple Epipoplar Geometry [J]", IEEE Transactions on Image Processing (TIP), 2021. (CAA-B Journal,  IF 9.34, An 1) [[Paper](https://ieeexplore.ieee.org/abstract/document/9465683)]] [[Code](https://github.com/shuozh/Micro-lens-based-Matching-for-Scene-Recovery)]]
+- **[TIP 2021]** Shuo Zhang, **Song Chang**, Youfang Lin, "End-to-End Light Field Spatial Super-Resolution Network using Multiple Epipoplar Geometry [J]", IEEE Transactions on Image Processing (TIP), 2021. (CAA-B Journal,  IF 9.34, An 1) [[Paper](https://ieeexplore.ieee.org/abstract/document/9465683)] [[Code](https://github.com/shuozh/Micro-lens-based-Matching-for-Scene-Recovery)]
 
-- **[TCI 2021]** Shuo Zhang, **Song Chang**, Zeqi Shen, Youfang Lin, "Micro-lens Image Upsampling for Densely-Sampled Light Field Reconstruction [J]", IEEE Transactions on Computational Imaging (TCI), 2021. (IF 4.015, An 2) [[Paper](https://ieeexplore.ieee.org/document/9496157)]]
+- **[TCI 2021]** Shuo Zhang, **Song Chang**, Zeqi Shen, Youfang Lin, "Micro-lens Image Upsampling for Densely-Sampled Light Field Reconstruction [J]", IEEE Transactions on Computational Imaging (TCI), 2021. (IF 4.015, An 2) [[Paper](https://ieeexplore.ieee.org/document/9496157)]
 
 
 ### Competitions
