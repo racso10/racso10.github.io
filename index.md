@@ -41,6 +41,8 @@ My recent working topics include but are not limited to:
 
 ### Publications
 
+- **[TMM 2024]** **Song Chang**, Youfang Lin, Shuo Zhang, "Structure-Aware Pre-Selected Neural Rendering for Light Field Reconstruction [J]" IEEE Transactions on Multimedia (TMM), 2024. (CCF B Conference, IF 8.4, An 1)
+
 - **[CVPR 2023 Workshop]** Chen Gao, Youfang Lin, **Song Chang**, Shuo Zhang, "Spatial-angular multi-scale mechanism for light field spatial super-resolution" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), 2023 [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Gao_Spatial-Angular_Multi-Scale_Mechanism_for_Light_Field_Spatial_Super-Resolution_CVPRW_2023_paper.pdf)]
 
 - **[ACM MM 2022]** **Song Chang**, Youfang Lin, Shuo Zhang, "Flexible Hybrid Lenses Light Field Super-Resolution using Layered Refinement", The 30th ACM International Conference on Multimedia (ACM MM), 2022. (CCF-A Conference) [[Paper](https://dl.acm.org/doi/10.1145/3503161.3548056)] [[Code](https://github.com/racso10/LFHSR)]
